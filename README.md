@@ -7,10 +7,11 @@ The Employedia is a CLI built with Node.js and stores data using a PostgresQL re
 To install the app just copy and past the next two lines in a terminal.
 ```bash
 git clone https://github.com/Frxctxl/Employedia.git
-```
-```bash
 node index.js
 ```
+
+## Tutorial
+[Tutorial Video](https://drive.google.com/file/d/1FmiQ2TAsUAFuwvEAySjEbS7kgHWwxHkt/view?usp=sharing)   
 
 ## Credits
 This application was made with the help of JD Tadlock with Rutgers University Coding Bootcamp, and with referencing documentation by MDN and W3Schools.
