@@ -20,7 +20,6 @@ async function showMainMenu() {
     ]
   });
 
-  console.log(answerObj)
   switch (answerObj.option) {
     case 'Show all Departments':
       console.table(await Dept.getDept());
